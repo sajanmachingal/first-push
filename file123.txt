@@ -1,1 +1,5 @@
+D
 this is a conflicting file created in Origin
+=======
+THis is a conflicting file on remote
+
